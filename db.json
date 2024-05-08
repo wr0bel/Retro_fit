@@ -1,25 +1,28 @@
 {
-  "pytania":[
-  {
-    "tresc": "Stolicą Polski było",
-    "odpa": "Wilkowyje",
-    "odpb": "Gniezno",
-    "odpc": "Kowno",
-    "poprawna": 1
-  },
-  {
-    "tresc": "Prezydentem Polski był",
-    "odpa": "Jarosław Kaczyński",
-    "odpb": "Lecha Wałęsa",
-    "odpc": "Paweł Kozioł",
-    "poprawna": 1
-  },
-  {
-    "tresc": "Ostatnie wybory to wybory",
-    "odpa": "parlamentarne",
-    "odpb": "prezydenckie",
-    "odpc": "samorządowe",
-    "poprawna": 2
-  }
-]
+    "todo": [
+        {
+            "nazwaRzeczy": "projekt na prograwonie",
+            "priorytet": "2",
+            "data": "24-05-2024",
+            "zrealizowane": "tak"
+        },
+        {
+            "nazwaRzeczy": "zapisac sie na prawko",
+            "priorytet": "2",
+            "data": "11-08-2024",
+            "zrealizowane": "nie"
+        },
+        {
+            "nazwaRzeczy": "zrobic 18stke",
+            "priorytet": "1",
+            "data": "11-10-2024",
+            "zrealizowane": "nie"
+        },
+        {
+            "nazwaRzeczy": "pojsc na silke",
+            "priorytet": "0",
+            "data": "06-06-2024",
+            "zrealizowane": "nie"
+        }
+    ]
 }
